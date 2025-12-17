@@ -1,43 +1,29 @@
 # README - Progetto
 
 ## Titolo del Progetto
-Breve descrizione del progetto e scopo.
+Descrizione.
 
 ## Sommario
 - Autore:
 - Contact:
-- Licenza:
 
 ## Requisiti
-- Prerequisiti software e versioni
+Prerequisiti.
 
 ## Quick start
-Istruzioni per eseguire in locale:
-
-```bash
-# clona il repository
-git clone <repo-url>
-cd repo
-# installa dipendenze
-npm install
-# esegui in dev
-npm start
-```
+Istruzioni.
 
 ## Test
-Come eseguire test automatici:
-```
-npm test
-```
+Come testare.
 
 ## Contribuire
-Linee guida per contribuire, branching e PR.
+Guida.
 
 ## Struttura del repository
-Breve elenco delle cartelle principali.
+Cartelle.
 
 ## Contatti
-Referenti e canali di supporto.
+Referenti.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

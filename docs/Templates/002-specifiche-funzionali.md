@@ -1,36 +1,27 @@
 # Specifiche Funzionali
 
 ## Scopo
-Descrivere in dettaglio le funzionalità del sistema dal punto di vista dell'utente.
+Descrivere le funzionalità del sistema.
 
 ## Sommario
 - Autore:
 - Data:
 - Versione:
 
-## Use Case / Flussi Principali
-### Use Case 1: Titolo
-- Attori:
-- Pre-condizioni:
-- Flusso principale:
-- Flusso alternativo:
-- Post-condizioni:
+## Use Case
+- UC-01: Descrizione
 
 ## Requisiti Funzionali Dettagliati
-- RF-001: Nome
-  - Descrizione dettagliata
-  - Input/Output
-  - Dipendenze
-  - Criteri di accettazione
+- RF-001: Descrizione
 
-## Interfacce Utente (se applicabile)
-- Wireframe / Mockup / Descrizioni campo
+## Interfacce Utente
+Descrizioni UI.
 
 ## Note e Assunzioni
-Elencare assunzioni prese durante la scrittura.
+Assunzioni.
 
 ## Tracciabilità
-Mappatura tra requisiti e casi di test / API
+Link a requisiti.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

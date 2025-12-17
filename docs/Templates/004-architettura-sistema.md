@@ -1,7 +1,7 @@
 # Architettura del Sistema
 
 ## Scopo
-Fornire una visione ad alto livello dell'architettura del sistema.
+Visione ad alto livello dell'architettura.
 
 ## Sommario
 - Autore:
@@ -9,24 +9,22 @@ Fornire una visione ad alto livello dell'architettura del sistema.
 - Versione:
 
 ## Panoramica
-Breve descrizione architetturale e obiettivi (es. microservizi, monolite).
+Descrizione architetturale.
 
 ## Diagrammi
-- Diagramma dei componenti
-- Diagramma di deployment
-- Diagramma di sequenza (per flussi critici)
+Link a diagrammi.
 
 ## Componenti Principali
-- Nome componente: responsabilità, interfacce
+Nome: responsabilità.
 
 ## Comunicazione e Integrazione
-- Protocolli (HTTP, gRPC), formati (JSON, Protobuf)
+Protocolli.
 
-## Non-Functional Requirements rilevanti
-- Disponibilità, resilienza, sicurezza
+## Non-Functional Requirements
+Disponibilità, ecc.
 
 ## Note Implementative
-- Pattern usati (es. CQRS, Event Sourcing)
+Pattern usati.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

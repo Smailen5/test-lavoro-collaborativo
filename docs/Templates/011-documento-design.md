@@ -1,7 +1,7 @@
 # Documento di Design
 
 ## Scopo
-Dettagliare le decisioni di design (UI/UX e design del sistema) e le ragioni dietro le scelte.
+Decisioni di design UI/UX.
 
 ## Sommario
 - Autore:
@@ -9,28 +9,25 @@ Dettagliare le decisioni di design (UI/UX e design del sistema) e le ragioni die
 - Versione:
 
 ## Obiettivi di Design
-Elencare gli obiettivi (usabilità, accessibilità, performance).
+Obiettivi.
 
 ## Linee Guida UI/UX
-- Stile visivo: palette colori, tipografia
-- Componenti riutilizzabili
-- Responsive behavior
+Stile.
 
 ## Wireframes e Mockup
-- Link a risorse o immagini
-- Descrizione delle schermate principali
+Link.
 
 ## Pattern e Componenti
-- Descrizione dei componenti UI, props e stati
+Componenti.
 
 ## Accessibilità
-- Requisiti WCAG, test e controllo qualità
+Requisiti WCAG.
 
-## Decisioni Architetturali (se applicabile)
-- Scelte rilevanti per il design del software
+## Decisioni Architetturali
+Scelte.
 
 ## Trade-offs e Assunzioni
-- Motivazioni e limitazioni
+Motivazioni.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

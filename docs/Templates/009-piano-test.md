@@ -1,7 +1,7 @@
 # Piano di Test
 
 ## Scopo
-Definire la strategia di test per garantire qualità e conformità ai requisiti.
+Strategia di test.
 
 ## Sommario
 - Responsabile QA:
@@ -9,36 +9,25 @@ Definire la strategia di test per garantire qualità e conformità ai requisiti.
 - Versione:
 
 ## Tipi di Test
-- Test unitari
-- Test di integrazione
-- Test end-to-end (E2E)
-- Test di carico/performance
-- Test di sicurezza
+Unit, integration, etc.
 
 ## Ambito dei Test
-Cosa è incluso ed escluso dai test.
+Cosa testare.
 
 ## Ambiente di Test
-- Descrizione degli ambienti (staging, test)
-- Dati di test e setup
+Ambienti.
 
-## Casi di Test (template)
-- ID: TC-001
-- Titolo:
-- Descrizione:
-- Passi:
-- Risultato atteso:
-- Stato:
+## Casi di Test
+ID: Descrizione.
 
 ## Criteri di Accettazione
-Definire quando il software è considerato pronto per il rilascio.
+Quando è pronto.
 
 ## Automazione
-- Tool utilizzati (es. Jest, Cypress)
-- Pipeline CI per esecuzione test
+Tool.
 
 ## Tracciamento Bug
-- Processo di report e severità
+Processo.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

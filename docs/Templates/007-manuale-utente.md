@@ -1,7 +1,7 @@
 # Manuale Utente
 
 ## Scopo
-Guida per l'utente finale su come utilizzare il software.
+Guida per utenti finali.
 
 ## Sommario
 - Versione:
@@ -9,30 +9,28 @@ Guida per l'utente finale su come utilizzare il software.
 - Data:
 
 ## Introduzione
-Breve descrizione del prodotto e del pubblico target.
+Descrizione prodotto.
 
 ## Requisiti Minimi
-- Sistema operativo
-- Browser o software richiesto
+Requisiti.
 
 ## Installazione / Accesso
-Istruzioni passo-passo per installare o accedere al servizio.
+Istruzioni.
 
 ## Guida Rapida
-- Passo 1: ...
-- Passo 2: ...
+Passi base.
 
 ## Funzionalità Principali
-Descrizione delle funzionalità con esempi e screenshot (se disponibili).
+Descrizioni.
 
-## FAQ e Risoluzione dei Problemi
-- Problema comune: Soluzione
+## FAQ e Risoluzione Problemi
+Domande comuni.
 
 ## Contatti e Supporto
-- Come ottenere supporto tecnico o aprire ticket
+Referenti.
 
 ## Glossario
-- Termini utili per l'utente
+Termini.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note
