@@ -1,7 +1,7 @@
 # Documento di Requisiti
 
 ## Scopo
-Descrivere i requisiti funzionali e non funzionali del sistema.
+Descrivere i requisiti funzionali e non funzionali del progetto.
 
 ## Sommario
 - ID Progetto:
@@ -10,29 +10,25 @@ Descrivere i requisiti funzionali e non funzionali del sistema.
 - Versione:
 
 ## Contesto
-Breve descrizione del dominio e degli stakeholder.
+Breve descrizione del progetto.
 
 ## Glossario
 - Termine: Definizione
 
 ## Requisiti Funzionali
-1. RF-001: Titolo
-   - Descrizione:
-   - Criteri di accettazione:
+1. RF-001: Descrizione
 
 ## Requisiti Non Funzionali
-- RNF-001: Prestazioni
-  - Descrizione:
-  - Metriche:
+- RNF-001: Descrizione
 
 ## Vincoli
-Elencare vincoli tecnici, normativi o di business.
+Elenco vincoli.
 
 ## Tracciamento e Riferimenti
-- Collegamenti a use-case, API, wireframe.
+Link a documenti correlati.
 
 ## Approvazioni
-- Stakeholder: Firma / Data
+- Stakeholder: Firma
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

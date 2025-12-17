@@ -1,7 +1,7 @@
 # Documento di Sicurezza
 
 ## Scopo
-Descrivere le misure di sicurezza, controlli e policy per proteggere il sistema e i dati.
+Misure di sicurezza.
 
 ## Sommario
 - Autore:
@@ -9,31 +9,28 @@ Descrivere le misure di sicurezza, controlli e policy per proteggere il sistema 
 - Versione:
 
 ## Valutazione dei Rischi
-- Elenco dei principali rischi e impatto
+Rischi principali.
 
 ## Controlli di Sicurezza
-- Autenticazione e autorizzazione
-- Crittografia in transito e at-rest
-- Gestione segreti
+Autenticazione, etc.
 
 ## Vulnerability Management
-- Processo di scanning e patching
-- Responsabili
+Scanning.
 
 ## Logging e Monitoraggio
-- Cosa loggare, retention, protezione dei log
+Cosa loggare.
 
 ## Politiche di Backup e Recovery
-- Frequenza backup, test di restore
+Backup.
 
 ## Conformità e Normative
-- GDPR, ISO, o normative rilevanti
+GDPR, etc.
 
 ## Gestione Incidenti
-- Processo di risposta, comunicazione e post-mortem
+Processo.
 
 ## Test di Sicurezza
-- Penetration test, SAST/DAST
+Penetration.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

@@ -4,25 +4,25 @@
 - Data di rilascio:
 
 ### Panoramica
-Breve riepilogo delle modifiche principali in questa release.
+Riepilogo modifiche.
 
 ### Nuove Funzionalità
-- Feature 1: Descrizione breve
+- Feature 1
 
 ### Migliorie
-- Miglioria 1: Descrizione
+- Miglioria 1
 
 ### Bug Fix
-- Bug 123: Descrizione della correzione
+- Bug 123
 
 ### Problemi Conosciuti
-- Issue 456: Descrizione e workaround
+- Issue 456
 
 ### Note di Aggiornamento
-- Istruzioni per l'upgrade, eventuali migrazioni del database
+Istruzioni upgrade.
 
 ### Contatti
-- Referente per il rilascio e assistenza post-rilascio
+Referenti.
 
 ## Cronologia Versioni
 - vX.Y.Z - Data - Autore - Note
