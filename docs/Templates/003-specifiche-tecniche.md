@@ -1,7 +1,7 @@
 # Specifiche Tecniche
 
 ## Scopo
-Descrivere le scelte tecniche, l'architettura di dettaglio e i componenti principali.
+Descrivere l'architettura tecnica.
 
 ## Sommario
 - Autore:
@@ -9,31 +9,25 @@ Descrivere le scelte tecniche, l'architettura di dettaglio e i componenti princi
 - Versione:
 
 ## Architettura Generale
-- Diagramma dell'architettura (link o immagine)
-- Componenti principali e responsabilità
+Diagramma e componenti.
 
 ## Tecnologia e Dipendenze
-- Linguaggi: 
-- Framework: 
-- Database: 
-- Servizi esterni:
+Linguaggi, framework.
 
 ## Design del Modello Dati
-- Entità principali e relazioni
+Entità.
 
 ## API e Contratti
-- Endpoint principali, request/response, codici di errore
+Endpoint.
 
 ## Sicurezza
-- Autenticazione/Autorizzazione
-- Crittografia
+Misure.
 
 ## Scalabilità e Prestazioni
-- Strategie di caching, load balancing, limiti
+Strategie.
 
 ## Deploy e Ambiente
-- Descrizione ambienti (dev/test/prod)
-- CI/CD: passi per il deploy
+Ambienti.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note
