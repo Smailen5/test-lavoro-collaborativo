@@ -1,0 +1,21 @@
+# Elenco dei Template di Documenti Tecnici
+
+Ecco un elenco dei template disponibili nella cartella `Templates/`. Ogni link porta al template Markdown corrispondente.
+
+- [Documento di Requisiti](Templates/001-documento-requisiti.md)
+- [Specifiche Funzionali](Templates/002-specifiche-funzionali.md)
+- [Specifiche Tecniche](Templates/003-specifiche-tecniche.md)
+- [Architettura del Sistema](Templates/004-architettura-sistema.md)
+- [Piano di Progetto](Templates/005-piano-progetto.md)
+- [Documentazione API](Templates/006-documentazione-api.md)
+- [Manuale Utente](Templates/007-manuale-utente.md)
+- [Guida per Sviluppatori](Templates/008-guida-sviluppatori.md)
+- [Piano di Test](Templates/009-piano-test.md)
+- [Release Notes](Templates/010-release-notes.md)
+- [Documento di Design](Templates/011-documento-design.md)
+- [README](Templates/012-README.md)
+- [Changelog](Templates/013-changelog.md)
+- [Documento di Sicurezza](Templates/014-documento-sicurezza.md)
+- [Manuale di Installazione](Templates/015-manuale-installazione.md)
+
+Questi template possono essere utilizzati come punto di partenza per creare documenti tecnici standardizzati.
