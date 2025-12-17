@@ -1,7 +1,7 @@
 # Manuale di Installazione
 
 ## Scopo
-Istruzioni dettagliate per installare e configurare il software negli ambienti target.
+Istruzioni per installare il software.
 
 ## Sommario
 - Autore:
@@ -9,36 +9,28 @@ Istruzioni dettagliate per installare e configurare il software negli ambienti t
 - Versione:
 
 ## Requisiti Prerequisiti
-- Hardware minimo
-- Software richiesto
-- Permessi
+Hardware, software.
 
 ## Ambiente di Destinazione
-- Descrizione degli ambienti (dev, staging, prod)
+Ambienti.
 
-## Procedura di Installazione (esempio)
-1. Preparare l'ambiente (installare dipendenze)
-2. Scaricare e posizionare i file
-3. Configurare variabili e segreti
-4. Eseguire script di migrazione (se necessario)
-5. Avviare i servizi
+## Procedura di Installazione
+Passi.
 
 ### Comandi di esempio
 ```bash
-# esempio per ambiente Node
+# esempio
 npm install
-npm run build
-pm start
 ```
 
 ## Verifiche post-installazione
-- Check-list per verificare che l'installazione sia avvenuta con successo
+Check-list.
 
 ## Rollback
-- Procedura per tornare alla versione precedente in caso di problemi
+Come tornare indietro.
 
 ## Note e Troubleshooting
-- Problemi comuni e soluzioni
+Problemi comuni.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

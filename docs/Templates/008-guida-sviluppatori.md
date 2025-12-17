@@ -1,7 +1,7 @@
 # Guida per Sviluppatori
 
 ## Scopo
-Istruzioni per sviluppatori su ambiente di sviluppo, build, test e contributo al progetto.
+Istruzioni per sviluppatori.
 
 ## Sommario
 - Autore:
@@ -9,48 +9,31 @@ Istruzioni per sviluppatori su ambiente di sviluppo, build, test e contributo al
 - Versione:
 
 ## Prerequisiti
-- Linguaggi e versioni (es. Node.js >= 14)
-- Strumenti richiesti (es. Git, Docker)
+Requisiti.
 
 ## Setup Ambiente Locale
-1. Clona il repository:
-```
-git clone <repo-url>
-```
-2. Installa dipendenze:
-```
-npm install
-```
-3. Configura variabili d'ambiente (es. `.env`)
+Istruzioni.
 
 ## Script utili
-- `npm start` - avvia l'app in dev
-- `npm test` - esegue i test
-- `npm run build` - crea la build di produzione
+Comandi.
 
 ## Struttura del Progetto
-- `src/` - codice sorgente
-- `tests/` - test
-- `docs/` - documentazione
+Cartelle.
 
 ## Stile di Codice e Linting
-- Linee guida: ESLint, Prettier, convenzioni di naming
+Regole.
 
 ## Branching e Workflow
-- Branch principale: `main`/`master`
-- Feature branch: `feature/nomedellafeature`
-- Pull request: regole per PR (titolo, descrizione, reviewer)
+Processo.
 
 ## Testing
-- Tipi di test: unit, integration, e2e
-- Come eseguire e scrivere test
+Come testare.
 
 ## Debugging e Logging
-- Come attivare il logging, livelli e best practice
+Strumenti.
 
 ## Contribuire
-- Come aprire issue e PR
-- Checklist per PR
+Guida contributi.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note

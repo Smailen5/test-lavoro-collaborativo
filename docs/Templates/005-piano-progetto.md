@@ -1,36 +1,34 @@
 # Piano di Progetto
 
 ## Scopo
-Pianificare tempi, risorse e milestone del progetto.
+Pianificare tempi e risorse.
 
 ## Sommario
 - Project Manager:
 - Data inizio:
-- Data prevista fine:
-- Versione piano:
+- Data fine:
+- Versione:
 
 ## Obiettivi del Progetto
-Elenco degli obiettivi principali e criteri di successo.
+Elenco obiettivi.
 
 ## Ambito (Scope)
-Cosa è incluso e cosa è escluso dal progetto.
+Cosa è incluso.
 
 ## Milestone e Timeline
-| Milestone | Data prevista | Responsabile |
-|-----------|---------------|--------------|
+| Milestone | Data | Responsabile |
 
 ## Risorse e Ruoli
-- Team: Ruoli e disponibilità
-- Fornitori esterni
+Team e ruoli.
 
-## Budget (se applicabile)
-Breve overview dei costi stimati.
+## Budget
+Costi stimati.
 
 ## Rischi e Mitigazioni
-- Rischio: Probabilità / Impatto / Mitigazione
+Rischio: Probabilità / Impatto / Mitigazione
 
 ## Piano di Comunicazione
-- Riunioni, report, stakeholder
+Riunioni.
 
 ## Cronologia Versioni
 - v1.0 - Data - Autore - Note
